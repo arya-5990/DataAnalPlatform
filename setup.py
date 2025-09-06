@@ -1,4 +1,6 @@
-
+"""
+Setup script for Data Analytics Platform
+"""
 import os
 import sys
 import subprocess
